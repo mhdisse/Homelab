@@ -2,7 +2,7 @@
 
 This repository documents my homelab environment, built on Proxmox and used to learn virtualisation, Linux, networking, automation, and cloud engineering concepts.
 
-I’m using this homelab to develop real hands-on experience while I work toward becoming a cloud engineer.
+This homelab is where I build real hands on experience as I work toward becoming a cloud engineer.
 
 Hardware ill be using:
 -HP ProDesk 600 G5 Mini
